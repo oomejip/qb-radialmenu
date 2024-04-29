@@ -1,24 +1,14 @@
-# qb-radialmenu
-Radial Menu Used With QB-Core 
 
-# Nopixel 4.0 Inspired 
+![qb-radialmenu](https://github.com/oomejip/qb-radialmenu/assets/69800408/e2f3e954-93b2-46b2-a11c-bae53b37dc69)
+# qb-radialmenu 
+- CSS EDIT Nopixel look   
+## Showcase
 
-# ALL WORDS ARE IN DUTCH SO YOU HAVE TRANSLATE IT BACK 
+![image](https://github.com/oomejip/qb-radialmenu/assets/69800408/a7a76009-01af-43fa-87b9-6b9034dc9a2b)
+![image](https://github.com/oomejip/qb-radialmenu/assets/69800408/cbfc257f-abce-4d1a-8100-42410814c360)
 
-# License
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+## Dependencies
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+- [QBCore](https://github.com/qbcore-framework/qb-core)
