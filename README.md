@@ -9,7 +9,10 @@
 - OR WHAT YOU CAN DO IS COPY THE Config.MenuItems THAT YOU HAVE AND PUT IT IN THIS ONE
  
 ## Showcase
+#Previeuw Clip 
 https://streamable.com/ei38e5
+
+#Pictures
 ![image](https://github.com/oomejip/qb-radialmenu/assets/69800408/a7a76009-01af-43fa-87b9-6b9034dc9a2b)
 ![image](https://github.com/oomejip/qb-radialmenu/assets/69800408/cbfc257f-abce-4d1a-8100-42410814c360)
 
