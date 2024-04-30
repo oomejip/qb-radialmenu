@@ -2,7 +2,7 @@
 ![qb-radialmenu](https://github.com/oomejip/qb-radialmenu/assets/69800408/e2f3e954-93b2-46b2-a11c-bae53b37dc69)
 # qb-radialmenu 
 - CSS EDIT Nopixel look 
-- Credits to the guy how made the radial menu that can be hold
+- Credits to the guy how made this virsion of the radialmenu i dont know it any more :(
 
 ## Install
 - THIS RADIALMENU IS IN DUTCH SO YOU HAVE TO TRANSLATE IT BACK TO ENG 
